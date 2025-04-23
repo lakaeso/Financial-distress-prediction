@@ -1,5 +1,14 @@
-# Financial distress precition
-Based on Give Me Some Credit Kaggle competition. Goal is to predict whether a person will experience financial distress in the next two years.
+# Financial distress prediction
+Based on Give Me Some Credit Kaggle competition. Goal is to predict whether a person will experience financial distress.
+
+### Topics covered
+* Exploratory data analysis
+* Hypothesis testing
+* Data cleansing, feature engineering
+* Classical ML methods
+* Cross validation
+
+## Project description
 
 Imbalanced dataset, linear inseparability, low correlation of input and target features, and large outliers make this classification task quite a challange. Exploratory data analysis along with PCA analysis were performed to gain some top down insights into the data along with statistical tests (nonparametric t-test alternative, Mann Whitney U-test).
 
