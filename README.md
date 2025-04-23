@@ -10,13 +10,13 @@ In the modelling phase, baseline logistic regression model was developed which i
 Cross validation grid search was performed to find the best model between logistic regression, random forest and a decision tree classifier.
 
 ## Available notebooks
-* Notebook 1: Exploratory data analysis
+* <b>Notebook 1: Exploratory data analysis</b>
     *  Data and outlier visualisation, feature correlation heatmap, PCA analysis and statistical tests
-* Notebook 2: Data preparation and feature engineering
+* <b>Notebook 2: Data preparation and feature engineering</b>
     * Feature engineering, data scaling and outlier removal
-* Notebook 3: Baseline model
+* <b>Notebook 3: Baseline model</b>
     * Creation of a baseline logistic regression model
-* Notebook 4: Model selection
+* <b>Notebook 4: Model selection</b>
     * Model selection based on cross validation
 
 ## Models used
