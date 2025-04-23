@@ -1,5 +1,5 @@
 # Financial distress precition
-Based on Give Me Some Credit Kaggle competition. Goal is to predict weather a person will experience financial distress in the next two years.
+Based on Give Me Some Credit Kaggle competition. Goal is to predict whether a person will experience financial distress in the next two years.
 
 ## Available notebooks
 * Notebook 1: Exploratory data analysis
